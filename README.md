@@ -18,7 +18,7 @@ My journey in computer Information System has led me to develop a passion for cy
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Security Audits         | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -26,7 +26,6 @@ My journey in computer Information System has led me to develop a passion for cy
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -49,7 +48,6 @@ My journey in computer Information System has led me to develop a passion for cy
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://coursera.org/share/d3b6f19a0d7d282b9e86b039f5a6c485">
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
@@ -58,5 +56,4 @@ My journey in computer Information System has led me to develop a passion for cy
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- A Home lab for CCNA 

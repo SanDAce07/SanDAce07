@@ -50,21 +50,20 @@ CPA-Track: **150 credit hours upon graduation**
 | Internal Controls | Documented and evaluated controls across accounting and operational processes |
 
 ## Featured Projects
+
+### [Professional Portfolio Website](https://github.com/SanDAce07/sandesh-portfolio)
+A React and TypeScript portfolio that presents selected accounting, audit, data, and information-systems projects through recruiter-focused case studies.
+
+### [Accounting & Audit Projects Portfolio](https://github.com/SanDAce07/accounting-projects-portfolio)
+A collection of practical accounting work covering AR aging, cash application, bank reconciliation, audit confirmations, SQL financial analysis, variance review, and reusable workpaper templates.
+
 ### [GRC & IT Audit Toolkit](https://github.com/SanDAce07/grc-audit-toolkit)
-A growing repository of accounting, GRC, and audit-focused resources including:
-- audit scripts for access reviews, change log sampling, risk scoring, and aging analysis
-- control frameworks and compliance checklists
-- audit evidence templates and workpaper support materials
+Python-based audit utilities for access reviews, change-log sampling, risk scoring, and receivables aging, supported by automated tests and sample workpapers.
 
-### Highlighted Audit Scripts
-- [Aging Report Analyzer](https://github.com/SanDAce07/grc-audit-toolkit/blob/main/audit-scripts/aging-report-analyzer.py)
-- [Risk Score Calculator](https://github.com/SanDAce07/grc-audit-toolkit/blob/main/audit-scripts/risk-score-calculator.py)
-- [Change Log Sampler](https://github.com/SanDAce07/grc-audit-toolkit/blob/main/audit-scripts/change-log-sampler.py)
-- [Access Review Analyzer](https://github.com/SanDAce07/grc-audit-toolkit/blob/main/audit-scripts/access-review-analyzer.py)
+### [Inter-VLAN School Network Simulation](https://github.com/SanDAce07/INTER-VLAN-CONFIGURATION)
+A Cisco networking project demonstrating VLAN segmentation, 802.1Q trunking, IPv4 subnetting, and router-on-a-stick inter-VLAN routing.
 
-### [INTER-VLAN-CONFIGURATION](https://github.com/SanDAce07/INTER-VLAN-CONFIGURATION)
-A networking project that reflects my CIS background and interest in how systems, infrastructure, and controls connect to business operations.
-
+These projects combine my primary accounting and audit direction with the systems and technical foundation from my CIS studies.
 ## Experience Snapshot
 ### General Manager - Photo Studio
 **Kathmandu, Nepal | 2020-2022**
